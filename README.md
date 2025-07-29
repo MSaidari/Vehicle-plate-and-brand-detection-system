@@ -2,7 +2,7 @@
 
 Bu proje, Python ve görüntü işleme teknikleri kullanılarak geliştirilen bir **araç marka ve plaka tespit sistemidir**. Sistem, görsellerdeki araçların plakasını ve markasını otomatik olarak tespit edebilmektedir.
 
-## 🔍 Projenin Amacı
+##  Projenin Amacı
 
 Görsel girdiler üzerinden araçlara ait:
 - **Plaka bilgilerini**
@@ -10,14 +10,14 @@ Görsel girdiler üzerinden araçlara ait:
 
 otomatik olarak tespit eden bir sistem geliştirmek.
 
-## 🧠 Kullanılan Yöntemler
+##  Kullanılan Yöntemler
 
 - **Görüntü İşleme (OpenCV)**
 - **Makine Öğrenimi / Derin Öğrenme**
   - Plaka tespiti için: Eğitilmiş özel bir model
   - Marka tespiti için: Hazır bir derin öğrenme modeli
 
-## ⚙️ Kullanılan Teknolojiler
+## ⚙ Kullanılan Teknolojiler
 
 - Python
 - OpenCV
@@ -25,7 +25,7 @@ otomatik olarak tespit eden bir sistem geliştirmek.
 - NumPy
 - Matplotlib (görselleştirme için)
 
-## 📦 Kurulum
+##  Kurulum
 
 1. Gerekli paketleri yükleyin:
 
