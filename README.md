@@ -21,9 +21,9 @@ otomatik olarak tespit eden bir sistem geliştirmek.
 
 - Python
 - OpenCV
-- TensorFlow / Keras (veya kullandıysan başka bir framework)
+- Tesseract
 - NumPy
-- Matplotlib (görselleştirme için)
+- Matplotlib 
 
 ##  Kurulum
 
